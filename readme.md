@@ -23,11 +23,7 @@ The dashboard helps businesses make **data-driven decisions** by visualizing key
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
-
----
 
 ## 🧠 Insights You Can Derive
 
