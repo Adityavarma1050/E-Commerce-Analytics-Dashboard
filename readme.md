@@ -98,7 +98,6 @@ Feel free to fork this repo and improve the dashboard with more insights or bett
 For any queries or collaboration:
 
 * Name: Aditya Varma
-* GitHub: *(Add your profile link here)*
 
 ---
 
