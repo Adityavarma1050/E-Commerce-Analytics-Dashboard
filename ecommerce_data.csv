@@ -1,0 +1,41 @@
+OrderID,Date,State,Category,Product,CustomerID,Quantity,Sales,Profit,Discount,PaymentMode,OrderStatus
+1021,11-01-2024,Telangana,Electronics,Laptop,C121,1,65000,9000,15,Card,Delivered
+1022,11-01-2024,Karnataka,Grocery,Wheat,C122,4,1200,200,3,COD,Delivered
+1023,12-01-2024,Tamil Nadu,Clothing,T-Shirt,C123,2,1200,250,5,UPI,Delivered
+1024,12-01-2024,Maharashtra,Electronics,Mobile,C124,2,28000,4500,10,UPI,Delivered
+1025,13-01-2024,Delhi,Grocery,Sugar,C125,5,900,150,2,COD,Delivered
+1026,13-01-2024,Kerala,Clothing,Saree,C126,1,3500,600,10,Card,Delivered
+1027,14-01-2024,Gujarat,Electronics,Camera,C127,1,40000,6500,18,Card,Delivered
+1028,14-01-2024,Andhra Pradesh,Grocery,Oil,C128,3,900,180,3,UPI,Delivered
+1029,15-01-2024,Telangana,Clothing,Jeans,C129,2,2600,450,8,COD,Returned
+1030,15-01-2024,Karnataka,Electronics,Speaker,C130,2,5000,1200,12,Card,Delivered
+1031,16-01-2024,Tamil Nadu,Grocery,Rice Bag,C131,2,2000,300,4,UPI,Delivered
+1032,16-01-2024,Maharashtra,Clothing,Jacket,C132,1,4000,700,10,Card,Delivered
+1033,17-01-2024,Delhi,Electronics,Tablet,C133,1,22000,3500,10,UPI,Cancelled
+1034,17-01-2024,Kerala,Grocery,Milk,C134,5,700,150,2,COD,Delivered
+1035,18-01-2024,Gujarat,Clothing,Shirt,C135,3,2400,400,7,UPI,Delivered
+1036,18-01-2024,Andhra Pradesh,Electronics,Headphones,C136,2,3500,800,10,Card,Delivered
+1037,19-01-2024,Telangana,Grocery,Tea,C137,3,800,150,3,COD,Delivered
+1038,19-01-2024,Karnataka,Clothing,Shoes,C138,1,2500,500,10,UPI,Delivered
+1039,20-01-2024,Tamil Nadu,Electronics,TV,C139,1,52000,8500,18,Card,Delivered
+1040,20-01-2024,Maharashtra,Grocery,Flour,C140,4,1100,200,3,COD,Delivered
+1041,21-01-2024,Delhi,Clothing,Blazer,C141,1,4800,800,12,UPI,Delivered
+1042,21-01-2024,Kerala,Electronics,Mobile,C142,2,30000,5000,10,Card,Delivered
+1043,22-01-2024,Gujarat,Grocery,Oil,C143,3,850,150,2,COD,Delivered
+1044,22-01-2024,Andhra Pradesh,Clothing,Saree,C144,2,5200,900,10,UPI,Delivered
+1045,23-01-2024,Telangana,Electronics,Camera,C145,1,42000,7000,15,Card,Delivered
+1046,23-01-2024,Karnataka,Grocery,Sugar,C146,4,900,150,2,COD,Delivered
+1047,24-01-2024,Tamil Nadu,Clothing,Jacket,C147,1,3700,650,10,UPI,Delivered
+1048,24-01-2024,Maharashtra,Electronics,Laptop,C148,1,70000,10000,20,Card,Delivered
+1049,25-01-2024,Delhi,Grocery,Milk,C149,6,800,150,3,COD,Delivered
+1050,25-01-2024,Kerala,Clothing,T-Shirt,C150,2,1400,250,5,UPI,Delivered
+1051,26-01-2024,Gujarat,Electronics,Speaker,C151,2,4800,1000,12,Card,Delivered
+1052,26-01-2024,Andhra Pradesh,Grocery,Rice Bag,C152,3,2400,350,4,COD,Delivered
+1053,27-01-2024,Telangana,Clothing,Jeans,C153,2,2600,450,8,UPI,Returned
+1054,27-01-2024,Karnataka,Electronics,Mobile,C154,1,20000,3000,10,Card,Delivered
+1055,28-01-2024,Tamil Nadu,Grocery,Tea,C155,3,900,200,3,COD,Delivered
+1056,28-01-2024,Maharashtra,Clothing,Shoes,C156,1,2200,400,7,UPI,Delivered
+1057,29-01-2024,Delhi,Electronics,TV,C157,1,58000,9500,20,Card,Delivered
+1058,29-01-2024,Kerala,Grocery,Flour,C158,4,1200,200,3,COD,Delivered
+1059,30-01-2024,Gujarat,Clothing,Shirt,C159,2,2000,350,6,UPI,Delivered
+1060,30-01-2024,Andhra Pradesh,Electronics,Headphones,C160,3,4500,900,10,Card,Delivered
